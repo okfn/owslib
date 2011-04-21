@@ -225,8 +225,9 @@ class CatalogueServiceWeb:
             val = self._exml.find(util.nspath('SearchResults', namespaces['csw'])).attrib.get('numberOfRecordsReturned')
             self.results['returned'] = int(util.testXMLValue(val, True))
             val = self._exml.find(util.nspath('SearchResults', namespaces['csw'])).attrib.get('nextRecord')
-            self.results['nextrecord'] = int(util.testXMLValue(val, True))
-    
+            nextrecord = util.testXMLValue(val, True)
+            self.results['nextrecord'] = int(nextrecord) if nextrecord is not None else None
+
             # process list of matching records
             self.records = {}
 
