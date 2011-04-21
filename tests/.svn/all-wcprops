@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/gispy/!svn/ver/1702/OWSLib/trunk/tests
+END
+wms_GeoServerCapabilities.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/gispy/!svn/ver/1702/OWSLib/trunk/tests/wms_GeoServerCapabilities.txt
+END
+csw_nlr.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/gispy/!svn/ver/1688/OWSLib/trunk/tests/csw_nlr.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/gispy/!svn/ver/1092/OWSLib/trunk/tests/__init__.py
+END
+wcs_thredds.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/gispy/!svn/ver/1535/OWSLib/trunk/tests/wcs_thredds.txt
+END
+ows_interfaces.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/gispy/!svn/ver/1675/OWSLib/trunk/tests/ows_interfaces.txt
+END
+wfs_MapServerWFSCapabilities.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/gispy/!svn/ver/1095/OWSLib/trunk/tests/wfs_MapServerWFSCapabilities.txt
+END
+TESTING.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/gispy/!svn/ver/480/OWSLib/trunk/tests/TESTING.txt
+END
+mapserver-wfs-schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/gispy/!svn/ver/517/OWSLib/trunk/tests/mapserver-wfs-schema.xml
+END
+JPLCapabilities.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/gispy/!svn/ver/1096/OWSLib/trunk/tests/JPLCapabilities.xml
+END
+iso_codelist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/gispy/!svn/ver/1693/OWSLib/trunk/tests/iso_codelist.txt
+END
+wcs_idee.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/gispy/!svn/ver/1316/OWSLib/trunk/tests/wcs_idee.txt
+END
+mapserver-wfs-cap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/gispy/!svn/ver/517/OWSLib/trunk/tests/mapserver-wfs-cap.xml
+END
+wms_TelaCapabilities.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/gispy/!svn/ver/1675/OWSLib/trunk/tests/wms_TelaCapabilities.txt
+END
+csw_esri_gpt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/gispy/!svn/ver/1688/OWSLib/trunk/tests/csw_esri_gpt.txt
+END
+runalltests.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/gispy/!svn/ver/526/OWSLib/trunk/tests/runalltests.py
+END
+csw_geodata_gov.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/gispy/!svn/ver/1688/OWSLib/trunk/tests/csw_geodata_gov.txt
+END
+wcs_rectifiedgrid.info
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/gispy/!svn/ver/1535/OWSLib/trunk/tests/wcs_rectifiedgrid.info
+END
+wfs2_ndg3betaGrid.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/gispy/!svn/ver/1535/OWSLib/trunk/tests/wfs2_ndg3betaGrid.txt
+END
+Telascience.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/gispy/!svn/ver/510/OWSLib/trunk/tests/Telascience.xml
+END
+rundoctests.dist
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/gispy/!svn/ver/522/OWSLib/trunk/tests/rundoctests.dist
+END
+runcoverage.dist
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/gispy/!svn/ver/480/OWSLib/trunk/tests/runcoverage.dist
+END
+coverage.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/gispy/!svn/ver/480/OWSLib/trunk/tests/coverage.py
+END
+runtests.dist
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/gispy/!svn/ver/522/OWSLib/trunk/tests/runtests.dist
+END
+wfs_MapServerWFSFeature.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/gispy/!svn/ver/1095/OWSLib/trunk/tests/wfs_MapServerWFSFeature.txt
+END
+runalldoctests.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/gispy/!svn/ver/938/OWSLib/trunk/tests/runalldoctests.py
+END
+wfs2_ndg3betaPSeries.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/gispy/!svn/ver/1535/OWSLib/trunk/tests/wfs2_ndg3betaPSeries.txt
+END
+wms_JPLCapabilities.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/gispy/!svn/ver/1702/OWSLib/trunk/tests/wms_JPLCapabilities.txt
+END
+csw_gdp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/gispy/!svn/ver/1688/OWSLib/trunk/tests/csw_gdp.txt
+END
+geoserver-wms-cap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/gispy/!svn/ver/1510/OWSLib/trunk/tests/geoserver-wms-cap.xml
+END
+test_doctests.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/gispy/!svn/ver/1092/OWSLib/trunk/tests/test_doctests.py
+END

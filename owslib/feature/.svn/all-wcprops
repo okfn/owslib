@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gispy/!svn/ver/1675/OWSLib/trunk/owslib/feature
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/gispy/!svn/ver/1317/OWSLib/trunk/owslib/feature/__init__.py
+END
+wfs100.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/gispy/!svn/ver/1675/OWSLib/trunk/owslib/feature/wfs100.py
+END
+wfs200.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/gispy/!svn/ver/1675/OWSLib/trunk/owslib/feature/wfs200.py
+END

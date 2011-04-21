@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/gispy/!svn/ver/1705/OWSLib/trunk/owslib
+END
+ows.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gispy/!svn/ver/1660/OWSLib/trunk/owslib/ows.py
+END
+iso.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gispy/!svn/ver/1699/OWSLib/trunk/owslib/iso.py
+END
+wcs.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gispy/!svn/ver/1535/OWSLib/trunk/owslib/wcs.py
+END
+csw.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gispy/!svn/ver/1704/OWSLib/trunk/owslib/csw.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gispy/!svn/ver/1682/OWSLib/trunk/owslib/util.py
+END
+wfs.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gispy/!svn/ver/1317/OWSLib/trunk/owslib/wfs.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/gispy/!svn/ver/474/OWSLib/trunk/owslib/__init__.py
+END
+dif.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gispy/!svn/ver/1641/OWSLib/trunk/owslib/dif.py
+END
+fgdc.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gispy/!svn/ver/1674/OWSLib/trunk/owslib/fgdc.py
+END
+interfaces.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/gispy/!svn/ver/1287/OWSLib/trunk/owslib/interfaces.py
+END
+etree.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/gispy/!svn/ver/1657/OWSLib/trunk/owslib/etree.py
+END
+filter.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/gispy/!svn/ver/1705/OWSLib/trunk/owslib/filter.py
+END
+wms.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gispy/!svn/ver/1702/OWSLib/trunk/owslib/wms.py
+END
+wmc.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/gispy/!svn/ver/603/OWSLib/trunk/owslib/wmc.py
+END

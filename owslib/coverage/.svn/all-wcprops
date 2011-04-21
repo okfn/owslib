@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/gispy/!svn/ver/1675/OWSLib/trunk/owslib/coverage
+END
+wcs100.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/gispy/!svn/ver/1675/OWSLib/trunk/owslib/coverage/wcs100.py
+END
+wcs110.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/gispy/!svn/ver/1675/OWSLib/trunk/owslib/coverage/wcs110.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/gispy/!svn/ver/1095/OWSLib/trunk/owslib/coverage/__init__.py
+END
+wcsdecoder.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/gispy/!svn/ver/1129/OWSLib/trunk/owslib/coverage/wcsdecoder.py
+END
+wcsBase.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/gispy/!svn/ver/1675/OWSLib/trunk/owslib/coverage/wcsBase.py
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/gispy/!svn/ver/1697/OWSLib/trunk/examples
+END
+csw-client.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/gispy/!svn/ver/1304/OWSLib/trunk/examples/csw-client.py
+END
+iso-getcodelist.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/gispy/!svn/ver/1697/OWSLib/trunk/examples/iso-getcodelist.py
+END
+csw-harvest.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/gispy/!svn/ver/1671/OWSLib/trunk/examples/csw-harvest.py
+END
