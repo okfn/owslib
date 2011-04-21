@@ -38,17 +38,17 @@ def patch_well_known_namespaces(etree_module):
 
 # try to find elementtree or lxml
 try:
-    # Python < 2.5 with ElementTree installed
-    import elementtree.ElementTree as etree
-    patch_well_known_namespaces(etree)
+    from lxml import etree
 except ImportError:
     try:
-        # Python 2.5 with ElementTree included
-        import xml.etree.ElementTree as etree
+        # Python < 2.5 with ElementTree installed
+        import elementtree.ElementTree as etree
         patch_well_known_namespaces(etree)
     except ImportError:
         try:
-            from lxml import etree
+            # Python 2.5 with ElementTree included
+            import xml.etree.ElementTree as etree
+            patch_well_known_namespaces(etree)
         except ImportError:
             raise RuntimeError('You need either ElementTree or lxml to use OWSLib!')
 
