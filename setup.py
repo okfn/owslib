@@ -14,7 +14,7 @@ setup(name          = 'OWSLib',
       maintainer_email  = 'sgillies@frii.com',
       url           = 'http://trac.gispython.org/lab/wiki/OwsLib',
       packages      = find_packages(),
-      test_suite    = 'tests.test_suite',
+      test_suite    = 'owslib.tests.test_suite',
       classifiers   = [
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
